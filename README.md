@@ -98,3 +98,22 @@ Email       Interview Scheduling
 Daniel Okerein
 
 AI Automation Builder | Workflow Automation | n8n | OpenAI
+---
+
+## Workflow Screenshots
+
+### Full Workflow Overview
+
+![Workflow Overview](screenshots/workflow-overview.png)
+
+---
+
+### AI Analysis Section
+
+![AI Analysis](screenshots/ai-analysis-section.png)
+
+---
+
+### Email and Scheduling Automation
+
+![Email Scheduling](screenshots/email-and-scheduling.png)
